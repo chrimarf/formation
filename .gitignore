@@ -3,8 +3,10 @@
 data/*
 *.pickle
 
+
 # editeur
 *.idea*
 *.RHistory*
 *.ipynb_checkpoints/*
 *.Rproj*
+*.DS_Store
