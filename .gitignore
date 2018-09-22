@@ -1,0 +1,10 @@
+# data
+*.csv
+data/*
+*.pickle
+
+# editeur
+*.idea*
+*.RHistory*
+*.ipynb_checkpoints/*
+*.Rproj*
